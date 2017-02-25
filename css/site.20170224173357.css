@@ -27,7 +27,7 @@ li {
 .colwrapper{line-height:0;}
 .cont-3{z-index:2;}
 .para{padding-top:0;text-indent:0;padding-right:0;text-align:left;}
-.font{font-family:"Istok Web";font-size:24.00pt;font-weight:400;font-style:normal;text-decoration:none;color:rgb(0,0,0);line-height:34.55pt;letter-spacing:normal;}
+.font{font-family:"Istok Web";font-size:24.00pt;font-weight:400;font-style:normal;text-decoration:none;color:rgb(255,255,255);line-height:34.55pt;letter-spacing:normal;}
 .font-2{font-family:"PT Sans";font-size:13.50pt;font-weight:400;font-style:italic;text-decoration:none;color:rgb(221,237,247);line-height:17.47pt;letter-spacing:normal;}
 .vis-3{display:inline-block;vertical-align:top;overflow:visible;}
 .pos-4{position:relative;margin-left:0;margin-top:-31px;}
@@ -51,6 +51,7 @@ li {
 .pos-8{position:relative;margin-left:9px;margin-top:0;}
 .size-9{min-width:930px;width:930px;min-height:57px;}
 .size-10{min-width:600px;width:600px;min-height:57px;}
+.font-4{font-family:"Istok Web";font-size:24.00pt;font-weight:400;font-style:normal;text-decoration:none;color:rgb(0,0,0);line-height:34.55pt;letter-spacing:normal;}
 .pos-9{position:relative;margin-left:250px;margin-top:18px;}
 .size-11{min-width:80px;width:80px;min-height:21px;}
 .cont-6{z-index:4;}
@@ -59,7 +60,7 @@ li {
 .button:active{background-color:rgb(82,100,111);border-color:rgb(0,0,0);color:rgb(255,255,255);}
 .vis-5{display:inline-block;overflow:hidden;outline:0;}
 .size-12{width:80px;height:18px;}
-.font-4{font-family:Lato;font-size:9.00pt;font-weight:400;font-style:normal;text-decoration:none;color:rgb(0,0,0);line-height:10.80pt;letter-spacing:normal;text-indent:0;text-align:center;padding-top:3px;margin-top:0;margin-bottom:0;}
+.font-5{font-family:Lato;font-size:9.00pt;font-weight:400;font-style:normal;text-decoration:none;color:rgb(0,0,0);line-height:10.80pt;letter-spacing:normal;text-indent:0;text-align:center;padding-top:3px;margin-top:0;margin-bottom:0;}
 .pos-11{position:relative;margin-left:8px;margin-top:1px;}
 .size-13{min-width:940px;width:940px;min-height:175px;}
 .cont-7{z-index:6;border:2px solid rgb(103,122,133);border-radius:43px;background-color:rgb(221,237,247);}
@@ -73,11 +74,11 @@ li {
 .pos-14{position:relative;margin-left:40px;margin-top:0;}
 .size-16{min-width:640px;width:640px;min-height:153px;}
 .cont-9{z-index:9;}
-.font-5{font-family:"Istok Web";font-size:18.00pt;font-weight:400;font-style:normal;text-decoration:underline;color:rgb(0,0,0);line-height:25.91pt;letter-spacing:normal;}
-.font-6{font-family:"Istok Web";font-size:18.00pt;font-weight:400;font-style:normal;text-decoration:none;color:rgb(0,0,0);line-height:25.91pt;letter-spacing:normal;}
+.font-6{font-family:"Istok Web";font-size:18.00pt;font-weight:400;font-style:normal;text-decoration:underline;color:rgb(0,0,0);line-height:25.91pt;letter-spacing:normal;}
+.font-7{font-family:"Istok Web";font-size:18.00pt;font-weight:400;font-style:normal;text-decoration:none;color:rgb(0,0,0);line-height:25.91pt;letter-spacing:normal;}
 .pos-15{margin-left:24px;}
 .para-3{padding-top:0;text-indent:0;margin-top:3.24pt;margin-bottom:-3.24pt;padding-right:0;text-align:left;}
-.font-7{font-family:"Istok Web";font-size:11.25pt;font-weight:400;font-style:normal;text-decoration:none;color:rgb(0,0,0);line-height:22.67pt;letter-spacing:normal;}
+.font-8{font-family:"Istok Web";font-size:11.25pt;font-weight:400;font-style:normal;text-decoration:none;color:rgb(0,0,0);line-height:22.67pt;letter-spacing:normal;}
 .pos-16{position:relative;margin-left:8px;margin-top:21px;}
 .cont-10{z-index:7;border:2px solid rgb(103,122,133);border-radius:43px;background-color:rgb(221,237,247);}
 .pos-17{position:relative;margin-left:32px;margin-top:14px;}
@@ -156,7 +157,6 @@ li {
 .anchor{display:block;width:67px;}
 .img-23{position:absolute;left:3px;width:61px;height:61px;top:0;}
 .menu-device{background-color:rgb(0,0,0);display:none;}
-.font-8{font-family:"Istok Web";font-size:24.00pt;font-weight:400;font-style:normal;text-decoration:none;color:rgb(255,255,255);line-height:34.55pt;letter-spacing:normal;}
 .cont-48{z-index:3;}
 .pos-27{position:relative;margin-top:46px;}
 .size-23{min-width:731px;width:731px;min-height:88px;}
