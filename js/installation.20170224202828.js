@@ -4,9 +4,9 @@ $.fn.hasAttr = function(name) { var attr = $(this).attr(name); return typeof att
 function sm(){$('a[href^="#"]').each(function(){$(this).click(function(){var t=this.hash.length>1?$('[name="'+this.hash.slice(1)+'"]').offset().top:0;return $("html, body").animate({scrollTop:t},400),!1})})}
 
 $(document).ready(function() {
-r=function(){dpi=window.devicePixelRatio;$('.js-26').attr('src', (dpi>1) ? 'images/windows-result-946.png' : 'images/windows-result-473.png');
-$('.js-27').attr('src', (dpi>1) ? 'images/osx-result-838.png' : 'images/osx-result-419.png');
-$('.js-28').attr('src', (dpi>1) ? 'images/mas_results-1900.jpg' : 'images/mas_results-950.jpg');
+r=function(){dpi=window.devicePixelRatio;$('.js-26').attr('src', (dpi>1) ? 'images/windows-result-946-1.png' : 'images/windows-result-473-1.png');
+$('.js-27').attr('src', (dpi>1) ? 'images/osx-result-838-1.png' : 'images/osx-result-419-1.png');
+$('.js-28').attr('src', (dpi>1) ? 'images/mas_results-1900-1.jpg' : 'images/mas_results-950-1.jpg');
 $('.js-29').attr('src', (dpi>1) ? 'images/scripts-addins-850.png' : 'images/scripts-addins-425.png');
 $('.js-30').attr('src', (dpi>1) ? 'images/archiver-addin-468.png' : 'images/archiver-addin-234.png');};
 if(!window.HTMLPictureElement){r();}
