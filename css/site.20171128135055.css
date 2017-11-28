@@ -218,8 +218,9 @@ li {
 .size-32{min-width:960px;width:960px;min-height:259px;}
 .size-33{min-width:950px;width:950px;min-height:259px;}
 .cont-56{z-index:8;pointer-events:auto;}
-.font-11{font-family:"Istok Web";font-size:11.25pt;font-weight:400;font-style:italic;text-decoration:none;color:rgb(0,0,0);line-height:22.67pt;letter-spacing:normal;}
-.font-12{font-family:"Istok Web";font-size:11.25pt;font-weight:700;font-style:normal;text-decoration:none;color:rgb(0,0,0);line-height:22.67pt;letter-spacing:normal;}
+.font-11{font-family:"Istok Web";font-size:15.00pt;font-weight:700;font-style:normal;text-decoration:none;color:rgb(0,0,0);line-height:30.23pt;letter-spacing:normal;}
+.font-12{font-family:"Istok Web";font-size:11.25pt;font-weight:400;font-style:italic;text-decoration:none;color:rgb(0,0,0);line-height:22.67pt;letter-spacing:normal;}
+.font-13{font-family:"Istok Web";font-size:11.25pt;font-weight:700;font-style:normal;text-decoration:none;color:rgb(0,0,0);line-height:22.67pt;letter-spacing:normal;}
 .pos-31{position:relative;margin-left:661px;margin-top:-247px;}
 .size-34{min-width:555px;width:555px;min-height:358px;height:358px;}
 .cont-57{z-index:11;pointer-events:auto;}
@@ -231,8 +232,8 @@ li {
 .pos-32{position:relative;margin-left:0;margin-top:55px;}
 .size-35{min-width:960px;width:960px;min-height:246px;}
 .size-36{min-width:950px;width:950px;min-height:246px;}
-.font-13{font-family:"Istok Web";font-size:11.25pt;font-weight:400;font-style:normal;text-decoration:none;color:rgb(0,0,0);line-height:16.19pt;letter-spacing:normal;}
-.font-14{font-family:"Istok Web";font-size:11.25pt;font-weight:400;font-style:italic;text-decoration:underline;color:rgb(0,0,0);line-height:22.67pt;letter-spacing:normal;}
+.font-14{font-family:"Istok Web";font-size:11.25pt;font-weight:400;font-style:normal;text-decoration:none;color:rgb(0,0,0);line-height:16.19pt;letter-spacing:normal;}
+.font-15{font-family:"Istok Web";font-size:11.25pt;font-weight:400;font-style:italic;text-decoration:underline;color:rgb(0,0,0);line-height:22.67pt;letter-spacing:normal;}
 .pos-33{position:relative;margin-left:721px;margin-top:-239px;}
 .size-37{min-width:731px;width:731px;min-height:375px;}
 .js-32-lightbox.mfp-bg{opacity:0;background:#0b0b0b;-webkit-transition:all 0.15s ease-out;-moz-transition:all 0.15s ease-out;transition:all 0.15s ease-out;}
